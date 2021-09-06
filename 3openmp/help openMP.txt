@@ -1,0 +1,29 @@
+
+
+
+
+compilar programa em C 
+----------------------------------
+
+gcc  -o p p.c
+
+
+
+
+
+compilar programa em C com openmp
+---------------------------------
+
+
+gcc -o p   p.c   -fopenmp
+
+
+
+
+para executar
+-------------
+
+export OMP_NUM_THREADS=4
+
+./p
+

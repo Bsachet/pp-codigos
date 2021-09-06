@@ -1,0 +1,26 @@
+
+
+
+
+compilar programa em C 
+----------------------------------
+
+
+gcc    -o nome_do_execeutável      nome_do_fonte.c
+ 
+
+
+
+compilar programa em C com pthread
+----------------------------------
+
+gcc -o p p.c -lpthread
+
+
+
+
+para executar
+-------------
+
+./p
+
