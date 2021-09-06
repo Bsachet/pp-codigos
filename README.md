@@ -8,22 +8,23 @@
 
 Programação com memória compartilhada
 
-> `fork` 
-> `pthread` 
-> `openmp`
+> `fork`   
+> `pthread`   
+> `openmp`  
 
 
 ## Sprint 2
 
 Programação com memória distribuída
 
-> `socket` 
-> `MPI` 
+> `socket`   
+> `MPI`   
+
+
+## Sprint 3
 
 
 
-
-
-> ## Dicas gcc  
+> ##   
 > Padoin, Edson Luiz  
 > padoin@unijui.edu.br
