@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
         printf("\n Soma total = %d \n\n", somaglobal);
 
 	tempo2();
-	tempoFinal("mili segundos", argv[0], MSGLOG);
+	tempoFinal("mili segundos", argv[0], MSGLOG); 
 }
 
 

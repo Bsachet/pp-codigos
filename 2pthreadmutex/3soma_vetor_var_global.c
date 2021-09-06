@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
 	pthread_join(t1, NULL);
 	pthread_join(t2, NULL);
 
-	printf("\n A soma do vetor  = %lu \n\n\n", somaglobal );
+	printf("\n A soma do vetor  = %lu \n\n\n", somaglobal ); 
 
 	tempo2();
 	tempoFinal("mili segundos", argv[0], MSGLOG);
