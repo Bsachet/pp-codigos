@@ -15,3 +15,4 @@ compile:
 clean:
 	rm -rf *.out
 	rm -rf ?
+	rm *.log
